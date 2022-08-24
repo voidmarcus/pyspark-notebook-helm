@@ -20,8 +20,6 @@ volumeClaimTemplate:
     requests:
       storage: 10Gi
   storageClassName:
-  
-esse yaml tem um erro
 
 persistence:
   enabled: true
